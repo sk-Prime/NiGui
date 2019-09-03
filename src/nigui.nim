@@ -73,6 +73,7 @@ type
     Key_Tab        = 9
     Key_Return     = 13
     Key_Pause      = 19
+    Key_CapsLock   = 20
     Key_Escape     = 27
     Key_Space      = 32
     Key_NumberSign = 35
@@ -163,9 +164,14 @@ type
     Key_F24        = 135
     Key_NumLock    = 144
     Key_ScrollLock = 145
+    Key_Semicolon  = 186
+    Key_QuoteLeft  = 192
     Key_AE         = 196
     Key_OE         = 214
+    Key_BracketLeft     = 219
     Key_UE         = 220
+    Key_BracketRight    = 221
+    Key_QuoteRight = 222
     Key_SharpS     = 223
     # Not part of Unicode:
     Key_Insert     = 1000
